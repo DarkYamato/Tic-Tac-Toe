@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+}
+
+table,
+td {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+.status {
+  margin-bottom: 20px;
+}
+
+.clear {
+  margin-top: 20px;
+}
